@@ -82,8 +82,7 @@ $ docker run --rm -it htrtech/k4os
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+  <a href="[https://www.youtube.com/channel/UCvEixOhptdW0SI9U9tyHRFg](https://www.youtube.com/channel/UCvEixOhptdW0SI9U9tyHRFg)" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
+  <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174883.png"></a>
 </p>
 
