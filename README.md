@@ -35,7 +35,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/htr-tech/k4os.git
+$ git clone https://github.com/K4os0/k4os-Phishing
 ```
 
 - Change to cloned directory and run `k4os.sh` -
