@@ -1,11 +1,7 @@
-<!-- k4os -->
+##k4os 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
-</p>
+
 
 <p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
 
@@ -89,5 +85,5 @@ $ docker run --rm -it htrtech/k4os
 
 ### Credits :
 <p align="left">
-  <a href="[Credits]([https://github.com/htr-tech/zphisher](https://github.com/htr-tech/zphisher)</a></p>
+  <a href="[Credits](https://github.com/htr-tech/zphisher)</a></p>
 
