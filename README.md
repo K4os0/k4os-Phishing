@@ -1,16 +1,5 @@
 <!-- k4os -->
 
-<p align="center">
-  <img src=".imgs/logo.png">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/k4os?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/k4os?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/k4os?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/k4os?color=teal&style=for-the-badge">
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
