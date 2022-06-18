@@ -83,7 +83,7 @@ $ docker run --rm -it htrtech/k4os
 </p>
 
 <h3 align="center">
-:: Credits :: :
+:: Credits :: 
 </h3>
 
 ### Credits :
