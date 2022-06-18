@@ -85,5 +85,5 @@ $ docker run --rm -it htrtech/k4os
 
 ### Credits :
 <p align="left">
-  <a href="[Credits](https://github.com/htr-tech/zphisher)</a></p>
+  https://github.com/htr-tech/zphisher</p>
 
